@@ -3,7 +3,6 @@ import styled, { css } from "styled-components/macro";
 import { Button } from "./Button";
 import { IoMdArrowRoundForward } from "react-icons/io";
 import { IoArrowForward, IoArrowBack } from "react-icons/io5";
-import Image from "../images/house-1.jpg";
 
 const HeroSection = styled.section`
   height: 100vh;
